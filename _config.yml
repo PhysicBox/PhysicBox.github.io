@@ -1,0 +1,9 @@
+# Site settings
+title: PhysicBox for iOS
+email: physicbox@gmail.com
+description: "PhysicBox. The Best iOS App For Your Physic Work."
+url: "http://physic-box.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
